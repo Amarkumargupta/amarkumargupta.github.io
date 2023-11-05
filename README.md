@@ -1,2 +1,2 @@
-# amarkumargupta.github.io
-Portfolio
+# Amar Gupta
+amargupta.mailbox@gmail.com
