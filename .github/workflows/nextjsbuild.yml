@@ -1,41 +1,63 @@
-name: Deploy Next.js to GitHub Pages
+# .github/workflows/deploy-pages.yml
+
+name: Deploy Next.js Portfolio to GitHub Pages
 
 on:
   push:
-    branches:
-      - main    # or your default branch
+    branches: [ main ]        # or your default branch
+  workflow_dispatch:
+
+permissions:
+  contents: read             # for checkout
+  pages: write               # to publish
+  id-token: write            # for deploy-pages
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+      - name: Checkout code
+        uses: actions/checkout@v4            # latest checkout :contentReference[oaicite:9]{index=9}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4          # latest setup-node :contentReference[oaicite:10]{index=10}
         with:
-          node-version: '18'     # or your project’s Node version
+          node-version: '18'
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Build & Export
-        run: npm run export
+      - name: Build and export Next.js
+        run: |
+          npm run build
+          # npm run export                    # outputs into ./out
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v3
+      - name: Add .nojekyll
+        run: touch out/.nojekyll
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v3    # optional bump to @v4 if desired :contentReference[oaicite:11]{index=11}
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: out
+          path: ./out                      # static export folder :contentReference[oaicite:12]{index=12}
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        id: deployment
+        uses: actions/deploy-pages@v4       # uses artifact v4 :contentReference[oaicite:13]{index=13}
