@@ -44,7 +44,7 @@ jobs:
         uses: actions/configure-pages@v3
         with:
           token: ${{ secrets.PAT }}
-          enablement: false    # optional bump to @v4 if desired :contentReference[oaicite:11]{index=11}
+          enablement: true    # optional bump to @v4 if desired :contentReference[oaicite:11]{index=11}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
