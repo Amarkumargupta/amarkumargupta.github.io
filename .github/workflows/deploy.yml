@@ -4,13 +4,13 @@ name: Deploy Next.js Portfolio to GitHub Pages
 
 on:
   push:
-    branches: [ main ]        # or change to your default branch
+    branches: [ main ]        # or your default branch
   workflow_dispatch:
 
 permissions:
-  contents: read             # for actions/checkout
-  pages: write               # to publish to GitHub Pages
-  id-token: write            # required by actions/deploy-pages
+  contents: read             # for checkout
+  pages: write               # to publish
+  id-token: write            # for deploy-pages
 
 concurrency:
   group: "pages"
@@ -21,10 +21,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3                       # Latest checkout action :contentReference[oaicite:3]{index=3}
+        uses: actions/checkout@v4            # latest checkout :contentReference[oaicite:9]{index=9}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3                     # Latest Node.js setup :contentReference[oaicite:4]{index=4}
+        uses: actions/setup-node@v4          # latest setup-node :contentReference[oaicite:10]{index=10}
         with:
           node-version: '18'
           cache: 'npm'
@@ -35,18 +35,18 @@ jobs:
       - name: Build and export Next.js
         run: |
           npm run build
-          npm run export                               # Exports static HTML into `out/`
+          npm run export                    # outputs into ./out
 
-      - name: Create .nojekyll file
+      - name: Add .nojekyll
         run: touch out/.nojekyll
 
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v3                # Pages config action :contentReference[oaicite:5]{index=5}
+        uses: actions/configure-pages@v3    # optional bump to @v4 if desired :contentReference[oaicite:11]{index=11}
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3          # Now uses upload-artifact@v4 internally :contentReference[oaicite:6]{index=6}
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out                                  # Your Next.js export directory
+          path: ./out                      # static export folder :contentReference[oaicite:12]{index=12}
 
   deploy:
     needs: build
@@ -60,4 +60,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4                  # Deploys using the new v4 artifact actions :contentReference[oaicite:7]{index=7}
+        uses: actions/deploy-pages@v4       # uses artifact v4 :contentReference[oaicite:13]{index=13}
