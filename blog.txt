@@ -1,0 +1,438 @@
+3:I[3483,["768","static/chunks/app/blog/layout-d6b51ac431d2c7fa.js"],"default",1]
+4:I[4707,[],""]
+5:I[6423,[],""]
+6:I[5578,["437","static/chunks/437-cda2371841ad92c7.js","510","static/chunks/app/blog/not-found-fcb0ad247adc521d.js"],"default"]
+7:I[8003,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-fbda34acca80dda8.js"],""]
+8:I[1328,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeProvider"]
+9:I[6922,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeTransition"]
+a:I[3326,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeChanger"]
+b:I[5447,["437","static/chunks/437-cda2371841ad92c7.js","160","static/chunks/app/not-found-299a3a35cd0a2fbd.js"],"default"]
+0:["ifKds9x_GBwlpcjjBCc9p",[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[null,["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L6",null,{}],"notFoundStyles":[]}],"params":{}}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/842e7e9052e71745.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L7",null,{"src":"https://www.googletagmanager.com/gtag/js?id=undefined","strategy":"afterInteractive"}],["$","$L7",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'undefined');\n          "}]]}],["$","body",null,{"className":"__variable_3c557b font-mono","suppressHydrationWarning":true,"children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":false,"children":[["$","$L9",null,{}],["$","$La",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$Lb",null,{}],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Amar Kumar Gupta | Cloud & DevOps Engineer"}],["$","meta","3",{"name":"description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Amar Kumar Gupta | Cloud & DevOps Engineer"}],["$","meta","6",{"property":"og:description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","7",{"property":"og:url","content":"https://your-domain.com"}],["$","meta","8",{"property":"og:site_name","content":"Amar Kumar Gupta - Portfolio"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://your-domain.com/og-image.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Amar Kumar Gupta - Cloud & DevOps Engineer"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Amar Kumar Gupta - Cloud & DevOps Engineer"}],["$","meta","17",{"name":"twitter:description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","18",{"name":"twitter:image","content":"https://your-domain.com/og-image.jpg"}],["$","meta","19",{"name":"next-size-adjust"}]]
+1:null
+d:I[6602,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","347","static/chunks/347-1be5d1af76829c14.js","307","static/chunks/307-cc517ef64793f34e.js","404","static/chunks/app/blog/page-ac481359f6c38d82.js"],"default"]
+e:I[2294,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","347","static/chunks/347-1be5d1af76829c14.js","307","static/chunks/307-cc517ef64793f34e.js","404","static/chunks/app/blog/page-ac481359f6c38d82.js"],"default"]
+f:T865,
+# Complete Blog Post Example
+
+This is a comprehensive example showing all possible components and features available in blog posts.
+
+## Text Formatting
+
+You can use **bold**, *italic*, or ***both***. You can also use ~~strikethrough~~ text.
+
+## Lists
+
+### Unordered List
+- Item 1
+- Item 2
+  - Nested item 1
+  - Nested item 2
+- Item 3
+
+### Ordered List
+1. First item
+2. Second item
+   1. Nested item
+   2. Another nested item
+3. Third item
+
+## Code Blocks
+
+Inline code: `const example = "hello world";`
+
+```typescript
+// types.ts
+interface User {
+  id: string;
+  name: string;
+  email: string;
+}
+
+// api.ts
+function getUser(id: string): Promise<User> {
+  return fetch(`/api/users/${id}`)
+    .then(res => res.json());
+}
+```
+
+## Blockquotes
+
+> This is a blockquote
+> It can span multiple lines
+>> And can be nested
+
+## Tables
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+
+## Images
+
+![Example Image](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
+
+## Links
+
+[External Link](https://example.com)
+[Internal Link](/blog/another-post)
+
+## Diagrams (using Mermaid)
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+## Math Equations (using KaTeX)
+
+Inline math: $E = mc^2$
+
+Block math:
+$$
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+$$
+
+## Custom Components
+
+:::info
+This is an info box
+:::
+
+:::warning
+This is a warning box
+:::
+
+:::success
+This is a success box
+:::
+
+## Keyboard Shortcuts
+
+Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy
+
+## Footnotes
+
+Here's a sentence with a footnote[^1].
+
+[^1]: This is the footnote content.
+
+## Abbreviations
+
+The HTML specification is maintained by the W3C.
+
+*[HTML]: Hyper Text Markup Language
+*[W3C]: World Wide Web Consortium
+
+## Task Lists
+
+- [x] Write the blog post
+- [ ] Add more examples
+- [x] Review content
+- [ ] Publish
+
+## Definition Lists
+
+Term 1
+: Definition 1
+
+Term 2
+: Definition 2a
+: Definition 2b
+
+## Horizontal Rule
+
+---
+
+## Conclusion
+
+This example demonstrates all the components and features available in our blog posts. Use this as a reference when creating new content.10:T999,
+Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.
+
+## What is GitOps?
+
+GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
+
+```bash
+# workflow.sh
+# Example GitOps workflow
+git clone infrastructure-repo
+cd infrastructure-repo
+git checkout -b feature/new-service
+```
+
+## Key Benefits
+
+1. **Version Control**
+   - Complete history of all infrastructure changes
+   - Easy rollbacks when needed
+   - Clear audit trail for compliance
+
+2. **Automation**
+   - Automated deployments
+   - Reduced human error
+   - Faster recovery times
+
+```yaml
+# application.yaml
+# Example ArgoCD Application
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: my-app
+  namespace: argocd
+spec:
+  project: default
+  source:
+    repoURL: https://github.com/org/repo.git
+    targetRevision: HEAD
+    path: k8s
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: my-app
+```
+
+## Implementation Example
+
+Here's a simple example of how to implement GitOps using TypeScript:
+
+```typescript
+// gitops-controller.ts
+interface GitOpsConfig {
+  repository: string;
+  branch: string;
+  path: string;
+}
+
+class GitOpsController {
+  private config: GitOpsConfig;
+
+  constructor(config: GitOpsConfig) {
+    this.config = config;
+  }
+
+  async syncInfrastructure(): Promise<void> {
+    try {
+      // Sync infrastructure with Git repository
+      await this.pullLatestChanges();
+      await this.applyConfiguration();
+    } catch (error) {
+      console.error('Failed to sync infrastructure:', error);
+    }
+  }
+}
+```
+
+## Best Practices
+
+1. **Single Source of Truth**
+   - Keep all configuration in Git
+   - Use declarative configurations
+   - Implement proper access controls
+
+2. **Automated Reconciliation**
+   - Use tools like Flux or ArgoCD
+   - Set up proper monitoring
+   - Implement drift detection
+
+## Conclusion
+
+GitOps is more than just a trend—it's a fundamental shift in how we manage infrastructure. By embracing GitOps principles, organizations can achieve:
+
+- Faster deployments
+- Improved reliability
+- Better security
+- Enhanced collaboration
+
+Start implementing GitOps in your organization today to stay ahead of the curve.11:T11c6,
+Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.
+
+## Understanding Kubernetes Scaling
+
+Kubernetes offers multiple scaling strategies to handle varying workloads efficiently. Let's explore the key approaches and their implementation.
+
+## Horizontal Pod Autoscaling (HPA)
+
+HPA automatically scales the number of pods based on observed CPU utilization or custom metrics.
+
+```yaml
+# k8s/hpa.yaml
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: web-app
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: web-app
+  minReplicas: 3
+  maxReplicas: 10
+  metrics:
+  - type: Resource
+    resource:
+      name: cpu
+      target:
+        type: Utilization
+        averageUtilization: 80
+```
+
+## Vertical Pod Autoscaling (VPA)
+
+VPA automatically adjusts the CPU and memory reservations for your pods.
+
+```yaml
+# k8s/vpa.yaml
+apiVersion: autoscaling.k8s.io/v1
+kind: VerticalPodAutoscaler
+metadata:
+  name: web-app-vpa
+spec:
+  targetRef:
+    apiVersion: "apps/v1"
+    kind: Deployment
+    name: web-app
+  updatePolicy:
+    updateMode: "Auto"
+```
+
+## Custom Metrics Scaling
+
+Implement scaling based on application-specific metrics using the custom metrics API.
+
+```typescript
+// k8s/metrics-collector.ts
+interface CustomMetric {
+  name: string;
+  value: number;
+  timestamp: Date;
+}
+
+class MetricsCollector {
+  private metrics: CustomMetric[] = [];
+
+  async collectMetrics(): Promise<void> {
+    // Collect application-specific metrics
+    const metric: CustomMetric = {
+      name: 'requests_per_second',
+      value: await this.measureRequestRate(),
+      timestamp: new Date()
+    };
+    
+    this.metrics.push(metric);
+    await this.exportToPrometheus(metric);
+  }
+
+  private async measureRequestRate(): Promise<number> {
+    // Implementation to measure request rate
+    return 0;
+  }
+
+  private async exportToPrometheus(metric: CustomMetric): Promise<void> {
+    // Export metrics to Prometheus
+  }
+}
+```
+
+## Cluster Autoscaling
+
+Configure the cluster autoscaler to automatically adjust the number of nodes.
+
+```yaml
+# k8s/machine-deployment.yaml
+apiVersion: cluster.k8s.io/v1alpha1
+kind: MachineDeployment
+metadata:
+  name: worker-nodes
+spec:
+  replicas: 3
+  template:
+    spec:
+      machineType: n2-standard-4
+      minNodes: 3
+      maxNodes: 10
+```
+
+## Best Practices
+
+1. **Resource Requests and Limits**
+   - Set appropriate resource requests
+   - Configure reasonable limits
+   - Monitor resource usage patterns
+
+2. **Monitoring and Alerting**
+   - Implement comprehensive monitoring
+   - Set up proactive alerts
+   - Track scaling events
+
+3. **Cost Optimization**
+   - Use node pools effectively
+   - Implement pod disruption budgets
+   - Consider spot instances
+
+## Implementation Example
+
+Here's a TypeScript example of implementing a custom scaling controller:
+
+```typescript
+// k8s/scaling-controller.ts
+interface ScalingPolicy {
+  metric: string;
+  threshold: number;
+  scaleIncrement: number;
+}
+
+class CustomScalingController {
+  private policy: ScalingPolicy;
+  private currentReplicas: number;
+
+  constructor(policy: ScalingPolicy) {
+    this.policy = policy;
+    this.currentReplicas = 1;
+  }
+
+  async evaluateScaling(): Promise<void> {
+    try {
+      const currentMetricValue = await this.getMetricValue();
+      
+      if (currentMetricValue > this.policy.threshold) {
+        await this.scaleUp();
+      } else if (currentMetricValue < this.policy.threshold / 2) {
+        await this.scaleDown();
+      }
+    } catch (error) {
+      console.error('Scaling evaluation failed:', error);
+    }
+  }
+
+  private async scaleUp(): Promise<void> {
+    const newReplicas = this.currentReplicas + this.policy.scaleIncrement;
+    await this.applyScaling(newReplicas);
+  }
+
+  private async scaleDown(): Promise<void> {
+    const newReplicas = Math.max(1, this.currentReplicas - 1);
+    await this.applyScaling(newReplicas);
+  }
+
+  private async applyScaling(replicas: number): Promise<void> {
+    // Implementation to scale the deployment
+    this.currentReplicas = replicas;
+  }
+}
+```
+
+## Conclusion
+
+Effective scaling in Kubernetes requires a combination of:
+
+- Well-configured autoscaling policies
+- Proper monitoring and alerting
+- Regular optimization and tuning
+- Understanding of application behavior
+
+By implementing these strategies, you can ensure your applications handle high traffic efficiently while maintaining optimal resource utilization and cost effectiveness.2:["$","div",null,{"className":"min-h-screen relative","children":[["$","$Ld",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-8 relative z-10","children":[["$","h1",null,{"className":"text-4xl font-bold mb-8","children":"Blog Posts"}],["$","$Le",null,{"initialPosts":[{"slug":"example-blog-post","title":"Complete Blog Post Example with All Components","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["tutorial","markdown","components"],"readingTime":"2 min","excerpt":"# Complete Blog Post Example\n\nThis is a comprehensive example showing all possible components and features available in blog posts.\n\n## Text Formatting\n\nYou can use **bold**, *italic*, or ***both***....","content":"$f","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"gitops-infrastructure","title":"GitOps: The Future of Infrastructure Management","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["GitOPS","Git","Infrastructure"],"readingTime":"2 min","excerpt":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o...","content":"$10","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"kubernetes-scaling-strategies","title":"Advanced Kubernetes Scaling Strategies for High-Traffic Applications","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["Kubernetes","scaling","components"],"readingTime":"3 min","excerpt":"Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.\n\n## Understanding Kubernetes Sc...","content":"$11","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0}]}]]}]]}]

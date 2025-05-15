@@ -1,0 +1,118 @@
+3:I[4153,["206","static/chunks/app/blog/%5Bslug%5D/layout-d6eb36661f04fdc8.js"],"default",1]
+4:I[4707,[],""]
+6:I[6423,[],""]
+7:I[406,["437","static/chunks/437-cda2371841ad92c7.js","64","static/chunks/app/blog/%5Bslug%5D/not-found-9115312841843973.js"],"default"]
+8:I[3483,["768","static/chunks/app/blog/layout-d6b51ac431d2c7fa.js"],"default",1]
+9:I[5578,["437","static/chunks/437-cda2371841ad92c7.js","510","static/chunks/app/blog/not-found-fcb0ad247adc521d.js"],"default"]
+a:I[8003,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","827","static/chunks/827-7fc363d50bbca250.js","308","static/chunks/app/blog/%5Bslug%5D/page-5d63a52288678964.js"],""]
+b:I[1328,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeProvider"]
+c:I[6922,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeTransition"]
+d:I[3326,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeChanger"]
+e:I[5447,["437","static/chunks/437-cda2371841ad92c7.js","160","static/chunks/app/not-found-299a3a35cd0a2fbd.js"],"default"]
+5:["slug","gitops-infrastructure","d"]
+0:["ifKds9x_GBwlpcjjBCc9p",[[["",{"children":["blog",{"children":[["slug","gitops-infrastructure","d"],{"children":["__PAGE__?{\"slug\":\"gitops-infrastructure\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","gitops-infrastructure","d"],{"children":["__PAGE__",{},[["$L1","$L2",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c95096fc0885ed51.css","precedence":"next","crossOrigin":"$undefined"}]]],null],null]},[[null,["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L7",null,{}],"notFoundStyles":[]}],"params":{"slug":"gitops-infrastructure"}}]],null],null]},[[null,["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[]}],"params":{}}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/842e7e9052e71745.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$La",null,{"src":"https://www.googletagmanager.com/gtag/js?id=undefined","strategy":"afterInteractive"}],["$","$La",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'undefined');\n          "}]]}],["$","body",null,{"className":"__variable_3c557b font-mono","suppressHydrationWarning":true,"children":["$","$Lb",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":false,"children":[["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$Le",null,{}],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lf",null]]]]
+10:I[6602,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","827","static/chunks/827-7fc363d50bbca250.js","308","static/chunks/app/blog/%5Bslug%5D/page-5d63a52288678964.js"],"default"]
+11:I[2972,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","827","static/chunks/827-7fc363d50bbca250.js","308","static/chunks/app/blog/%5Bslug%5D/page-5d63a52288678964.js"],""]
+12:I[5878,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","827","static/chunks/827-7fc363d50bbca250.js","308","static/chunks/app/blog/%5Bslug%5D/page-5d63a52288678964.js"],"Image"]
+13:I[5618,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","827","static/chunks/827-7fc363d50bbca250.js","308","static/chunks/app/blog/%5Bslug%5D/page-5d63a52288678964.js"],"BlogContent"]
+14:T999,
+Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.
+
+## What is GitOps?
+
+GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
+
+```bash
+# workflow.sh
+# Example GitOps workflow
+git clone infrastructure-repo
+cd infrastructure-repo
+git checkout -b feature/new-service
+```
+
+## Key Benefits
+
+1. **Version Control**
+   - Complete history of all infrastructure changes
+   - Easy rollbacks when needed
+   - Clear audit trail for compliance
+
+2. **Automation**
+   - Automated deployments
+   - Reduced human error
+   - Faster recovery times
+
+```yaml
+# application.yaml
+# Example ArgoCD Application
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: my-app
+  namespace: argocd
+spec:
+  project: default
+  source:
+    repoURL: https://github.com/org/repo.git
+    targetRevision: HEAD
+    path: k8s
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: my-app
+```
+
+## Implementation Example
+
+Here's a simple example of how to implement GitOps using TypeScript:
+
+```typescript
+// gitops-controller.ts
+interface GitOpsConfig {
+  repository: string;
+  branch: string;
+  path: string;
+}
+
+class GitOpsController {
+  private config: GitOpsConfig;
+
+  constructor(config: GitOpsConfig) {
+    this.config = config;
+  }
+
+  async syncInfrastructure(): Promise<void> {
+    try {
+      // Sync infrastructure with Git repository
+      await this.pullLatestChanges();
+      await this.applyConfiguration();
+    } catch (error) {
+      console.error('Failed to sync infrastructure:', error);
+    }
+  }
+}
+```
+
+## Best Practices
+
+1. **Single Source of Truth**
+   - Keep all configuration in Git
+   - Use declarative configurations
+   - Implement proper access controls
+
+2. **Automated Reconciliation**
+   - Use tools like Flux or ArgoCD
+   - Set up proper monitoring
+   - Implement drift detection
+
+## Conclusion
+
+GitOps is more than just a trend—it's a fundamental shift in how we manage infrastructure. By embracing GitOps principles, organizations can achieve:
+
+- Faster deployments
+- Improved reliability
+- Better security
+- Enhanced collaboration
+
+Start implementing GitOps in your organization today to stay ahead of the curve.2:["$","div",null,{"className":"text-[rgb(var(--terminal-green))] p-4 relative min-h-screen overflow-hidden","children":[["$","$La",null,{"id":"structured-data-article","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"GitOps: The Future of Infrastructure Management\",\"image\":[\"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg\"],\"datePublished\":\"2025-06-01\",\"dateModified\":\"2025-06-01\",\"author\":{\"@type\":\"Person\",\"name\":\"Amar Kr. Gupta\",\"url\":\"https://your-domain.com/about\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Amar Kumar Gupta\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://your-domain.com/images/logo.png\"}},\"description\":\"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\\n\\n## What is GitOps?\\n\\nGitOps is a way o...\",\"url\":\"https://your-domain.com/blog/gitops-infrastructure\"}"}}],["$","$L10",null,{}],["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","$L11",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-[rgb(var(--terminal-green))] hover:text-white mb-6 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to blog"]}],["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm p-8 bg-[rgba(var(--terminal-gray),0.1)] border-[rgba(var(--terminal-green),0.3)]","children":["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"relative h-64 mb-6 rounded-lg overflow-hidden","children":["$","$L12",null,{"src":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","alt":"Featured image for GitOps: The Future of Infrastructure Management","fill":true,"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw","priority":true,"className":"object-cover transition-transform duration-500 group-hover:scale-105","loading":"eager"}]}],["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"GitOps: The Future of Infrastructure Management"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-[rgba(var(--foreground-rgb),0.7)]","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":["By ",["$","span",null,{"className":"text-[rgb(var(--terminal-green))] font-medium","children":"Amar Kr. Gupta"}]]}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"children":"June 1, 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":["2 min"," read"]}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-tag w-4 h-4","children":[["$","path","vktsd0",{"d":"M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0 0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42 0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"}],["$","circle","kqv944",{"cx":"7.5","cy":"7.5","r":".5","fill":"currentColor"}],"$undefined"]}],["$","div",null,{"className":"flex gap-2","children":[["$","span","GitOPS",{"className":"bg-[rgba(var(--terminal-gray),0.2)] px-2 py-1 rounded text-xs","children":["#","GitOPS"]}],["$","span","Git",{"className":"bg-[rgba(var(--terminal-gray),0.2)] px-2 py-1 rounded text-xs","children":["#","Git"]}],["$","span","Infrastructure",{"className":"bg-[rgba(var(--terminal-gray),0.2)] px-2 py-1 rounded text-xs","children":["#","Infrastructure"]}]]}]]}]]}]]}],["$","$L13",null,{"content":"$14"}]]}]}],["$","div",null,{"className":"flex justify-between items-center my-8","children":[["$","$L11",null,{"href":"/blog/example-blog-post","className":"flex items-center gap-2 text-[rgb(var(--terminal-green))] hover:text-white transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"className":"text-sm","children":"Previous Post"}]]}],["$","$L11",null,{"href":"/blog/kubernetes-scaling-strategies","className":"flex items-center gap-2 text-[rgb(var(--terminal-green))] hover:text-white transition-colors","children":[["$","span",null,{"className":"text-sm","children":"Next Post"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}],["$","div",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-6","children":"Related Posts"}],["$","div",null,{"className":"grid gap-6 md:grid-cols-3","children":[["$","div","example-blog-post",{"className":"block","children":["$","div",null,{"className":"rounded-lg border bg-card text-card-foreground shadow-sm h-full hover:shadow-lg transition-shadow","children":[["$","div",null,{"className":"relative h-32 overflow-hidden rounded-t-lg group","children":["$","$L11",null,{"href":"/blog/example-blog-post","className":"block h-full","children":[["$","$L12",null,{"src":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","alt":"Thumbnail for Complete Blog Post Example with All Components","fill":true,"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 25vw","className":"object-cover transition-transform duration-300 group-hover:scale-105"}],["$","div",null,{"className":"absolute inset-0 bg-black opacity-0 group-hover:opacity-20 transition-opacity duration-300"}]]}]}],["$","div",null,{"className":"p-4","children":[["$","$L11",null,{"href":"/blog/example-blog-post","className":"block","children":["$","h3",null,{"className":"font-semibold mb-2 text-[rgb(var(--terminal-green))]","children":"Complete Blog Post Example with All Components"}]}],["$","div",null,{"className":"flex items-center gap-2 text-xs text-[rgba(var(--foreground-rgb),0.7)] mb-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"children":"June 1, 2025"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[]}]]}]]}]}],["$","div","kubernetes-scaling-strategies",{"className":"block","children":["$","div",null,{"className":"rounded-lg border bg-card text-card-foreground shadow-sm h-full hover:shadow-lg transition-shadow","children":[["$","div",null,{"className":"relative h-32 overflow-hidden rounded-t-lg group","children":["$","$L11",null,{"href":"/blog/kubernetes-scaling-strategies","className":"block h-full","children":[["$","$L12",null,{"src":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","alt":"Thumbnail for Advanced Kubernetes Scaling Strategies for High-Traffic Applications","fill":true,"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 25vw","className":"object-cover transition-transform duration-300 group-hover:scale-105"}],["$","div",null,{"className":"absolute inset-0 bg-black opacity-0 group-hover:opacity-20 transition-opacity duration-300"}]]}]}],["$","div",null,{"className":"p-4","children":[["$","$L11",null,{"href":"/blog/kubernetes-scaling-strategies","className":"block","children":["$","h3",null,{"className":"font-semibold mb-2 text-[rgb(var(--terminal-green))]","children":"Advanced Kubernetes Scaling Strategies for High-Traffic Applications"}]}],["$","div",null,{"className":"flex items-center gap-2 text-xs text-[rgba(var(--foreground-rgb),0.7)] mb-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","time",null,{"children":"June 1, 2025"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[]}]]}]]}]}]]}]]}]]}]]}]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"GitOps: The Future of Infrastructure Management | Amar Kumar Gupta"}],["$","meta","3",{"name":"description","content":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o..."}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"GitOps: The Future of Infrastructure Management"}],["$","meta","6",{"property":"og:description","content":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o..."}],["$","meta","7",{"property":"og:image","content":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"}],["$","meta","8",{"property":"og:image:alt","content":"GitOps: The Future of Infrastructure Management"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2025-06-01"}],["$","meta","11",{"property":"article:author","content":"Amar Kr. Gupta"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"GitOps: The Future of Infrastructure Management"}],["$","meta","14",{"name":"twitter:description","content":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o..."}],["$","meta","15",{"name":"twitter:image","content":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"}],["$","meta","16",{"name":"next-size-adjust"}]]
+1:null
