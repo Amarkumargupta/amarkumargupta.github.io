@@ -2,155 +2,17 @@
 4:I[4707,[],""]
 5:I[6423,[],""]
 6:I[5578,["437","static/chunks/437-cda2371841ad92c7.js","510","static/chunks/app/blog/not-found-fcb0ad247adc521d.js"],"default"]
-7:I[8003,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-fbda34acca80dda8.js"],""]
+7:I[8003,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-e549ea7bb68c02e3.js"],""]
 8:I[1328,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeProvider"]
 9:I[6922,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeTransition"]
 a:I[3326,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeChanger"]
 b:I[5447,["437","static/chunks/437-cda2371841ad92c7.js","160","static/chunks/app/not-found-299a3a35cd0a2fbd.js"],"default"]
-0:["ifKds9x_GBwlpcjjBCc9p",[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[null,["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L6",null,{}],"notFoundStyles":[]}],"params":{}}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/842e7e9052e71745.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L7",null,{"src":"https://www.googletagmanager.com/gtag/js?id=undefined","strategy":"afterInteractive"}],["$","$L7",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'undefined');\n          "}]]}],["$","body",null,{"className":"__variable_3c557b font-mono","suppressHydrationWarning":true,"children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":false,"children":[["$","$L9",null,{}],["$","$La",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$Lb",null,{}],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
+0:["GbaKbdjG889BtWEbwk9Wu",[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[null,["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L6",null,{}],"notFoundStyles":[]}],"params":{}}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/842e7e9052e71745.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L7",null,{"src":"https://www.googletagmanager.com/gtag/js?id=undefined","strategy":"afterInteractive"}],["$","$L7",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'undefined');\n          "}]]}],["$","body",null,{"className":"__variable_3c557b font-mono","suppressHydrationWarning":true,"children":["$","$L8",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":false,"children":[["$","$L9",null,{}],["$","$La",null,{}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$Lb",null,{}],"notFoundStyles":[]}]]}]}]]}]],null],null],["$Lc",null]]]]
 c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Amar Kumar Gupta | Cloud & DevOps Engineer"}],["$","meta","3",{"name":"description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","meta","5",{"property":"og:title","content":"Amar Kumar Gupta | Cloud & DevOps Engineer"}],["$","meta","6",{"property":"og:description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","7",{"property":"og:url","content":"https://your-domain.com"}],["$","meta","8",{"property":"og:site_name","content":"Amar Kumar Gupta - Portfolio"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://your-domain.com/og-image.jpg"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"Amar Kumar Gupta - Cloud & DevOps Engineer"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Amar Kumar Gupta - Cloud & DevOps Engineer"}],["$","meta","17",{"name":"twitter:description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","18",{"name":"twitter:image","content":"https://your-domain.com/og-image.jpg"}],["$","meta","19",{"name":"next-size-adjust"}]]
 1:null
 d:I[6602,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","347","static/chunks/347-1be5d1af76829c14.js","307","static/chunks/307-cc517ef64793f34e.js","404","static/chunks/app/blog/page-ac481359f6c38d82.js"],"default"]
 e:I[2294,["437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","347","static/chunks/347-1be5d1af76829c14.js","307","static/chunks/307-cc517ef64793f34e.js","404","static/chunks/app/blog/page-ac481359f6c38d82.js"],"default"]
-f:T865,
-# Complete Blog Post Example
-
-This is a comprehensive example showing all possible components and features available in blog posts.
-
-## Text Formatting
-
-You can use **bold**, *italic*, or ***both***. You can also use ~~strikethrough~~ text.
-
-## Lists
-
-### Unordered List
-- Item 1
-- Item 2
-  - Nested item 1
-  - Nested item 2
-- Item 3
-
-### Ordered List
-1. First item
-2. Second item
-   1. Nested item
-   2. Another nested item
-3. Third item
-
-## Code Blocks
-
-Inline code: `const example = "hello world";`
-
-```typescript
-// types.ts
-interface User {
-  id: string;
-  name: string;
-  email: string;
-}
-
-// api.ts
-function getUser(id: string): Promise<User> {
-  return fetch(`/api/users/${id}`)
-    .then(res => res.json());
-}
-```
-
-## Blockquotes
-
-> This is a blockquote
-> It can span multiple lines
->> And can be nested
-
-## Tables
-
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
-
-## Images
-
-![Example Image](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
-
-## Links
-
-[External Link](https://example.com)
-[Internal Link](/blog/another-post)
-
-## Diagrams (using Mermaid)
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-## Math Equations (using KaTeX)
-
-Inline math: $E = mc^2$
-
-Block math:
-$$
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-$$
-
-## Custom Components
-
-:::info
-This is an info box
-:::
-
-:::warning
-This is a warning box
-:::
-
-:::success
-This is a success box
-:::
-
-## Keyboard Shortcuts
-
-Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy
-
-## Footnotes
-
-Here's a sentence with a footnote[^1].
-
-[^1]: This is the footnote content.
-
-## Abbreviations
-
-The HTML specification is maintained by the W3C.
-
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
-
-## Task Lists
-
-- [x] Write the blog post
-- [ ] Add more examples
-- [x] Review content
-- [ ] Publish
-
-## Definition Lists
-
-Term 1
-: Definition 1
-
-Term 2
-: Definition 2a
-: Definition 2b
-
-## Horizontal Rule
-
----
-
-## Conclusion
-
-This example demonstrates all the components and features available in our blog posts. Use this as a reference when creating new content.10:T999,
+f:T999,
 Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.
 
 ## What is GitOps?
@@ -248,7 +110,7 @@ GitOps is more than just a trend—it's a fundamental shift in how we manage inf
 - Better security
 - Enhanced collaboration
 
-Start implementing GitOps in your organization today to stay ahead of the curve.11:T11c6,
+Start implementing GitOps in your organization today to stay ahead of the curve.10:T11c6,
 Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.
 
 ## Understanding Kubernetes Scaling
@@ -435,4 +297,4 @@ Effective scaling in Kubernetes requires a combination of:
 - Regular optimization and tuning
 - Understanding of application behavior
 
-By implementing these strategies, you can ensure your applications handle high traffic efficiently while maintaining optimal resource utilization and cost effectiveness.2:["$","div",null,{"className":"min-h-screen relative","children":[["$","$Ld",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-8 relative z-10","children":[["$","h1",null,{"className":"text-4xl font-bold mb-8","children":"Blog Posts"}],["$","$Le",null,{"initialPosts":[{"slug":"example-blog-post","title":"Complete Blog Post Example with All Components","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["tutorial","markdown","components"],"readingTime":"2 min","excerpt":"# Complete Blog Post Example\n\nThis is a comprehensive example showing all possible components and features available in blog posts.\n\n## Text Formatting\n\nYou can use **bold**, *italic*, or ***both***....","content":"$f","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"gitops-infrastructure","title":"GitOps: The Future of Infrastructure Management","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["GitOPS","Git","Infrastructure"],"readingTime":"2 min","excerpt":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o...","content":"$10","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"kubernetes-scaling-strategies","title":"Advanced Kubernetes Scaling Strategies for High-Traffic Applications","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["Kubernetes","scaling","components"],"readingTime":"3 min","excerpt":"Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.\n\n## Understanding Kubernetes Sc...","content":"$11","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0}]}]]}]]}]
+By implementing these strategies, you can ensure your applications handle high traffic efficiently while maintaining optimal resource utilization and cost effectiveness.2:["$","div",null,{"className":"min-h-screen relative","children":[["$","$Ld",null,{}],["$","main",null,{"className":"container mx-auto px-4 py-8 relative z-10","children":[["$","h1",null,{"className":"text-4xl font-bold mb-8","children":"Blog Posts"}],["$","$Le",null,{"initialPosts":[{"slug":"gitops-infrastructure","title":"GitOps: The Future of Infrastructure Management","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["GitOPS","Git","Infrastructure"],"readingTime":"2 min","excerpt":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o...","content":"$f","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"kubernetes-scaling-strategies","title":"Advanced Kubernetes Scaling Strategies for High-Traffic Applications","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["Kubernetes","scaling","components"],"readingTime":"3 min","excerpt":"Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.\n\n## Understanding Kubernetes Sc...","content":"$10","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0}]}]]}]]}]

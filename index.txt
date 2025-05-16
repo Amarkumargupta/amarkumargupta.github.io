@@ -1,155 +1,17 @@
-3:I[8003,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-fbda34acca80dda8.js"],""]
+3:I[8003,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-e549ea7bb68c02e3.js"],""]
 4:I[1328,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeProvider"]
 5:I[6922,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeTransition"]
 6:I[3326,["3","static/chunks/3-7b00e21b66826e64.js","185","static/chunks/app/layout-f74d98a3cbc0ae0e.js"],"ThemeChanger"]
 7:I[4707,[],""]
 8:I[6423,[],""]
 9:I[5447,["437","static/chunks/437-cda2371841ad92c7.js","160","static/chunks/app/not-found-299a3a35cd0a2fbd.js"],"default"]
-0:["ifKds9x_GBwlpcjjBCc9p",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/842e7e9052e71745.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L3",null,{"src":"https://www.googletagmanager.com/gtag/js?id=undefined","strategy":"afterInteractive"}],["$","$L3",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'undefined');\n          "}]]}],["$","body",null,{"className":"__variable_3c557b font-mono","suppressHydrationWarning":true,"children":["$","$L4",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":false,"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[]}]]}]}]]}]],null],null],["$La",null]]]]
+0:["GbaKbdjG889BtWEbwk9Wu",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/842e7e9052e71745.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","$L3",null,{"src":"https://www.googletagmanager.com/gtag/js?id=undefined","strategy":"afterInteractive"}],["$","$L3",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'undefined');\n          "}]]}],["$","body",null,{"className":"__variable_3c557b font-mono","suppressHydrationWarning":true,"children":["$","$L4",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":false,"children":[["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[]}]]}]}]]}]],null],null],["$La",null]]]]
 a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Amar Kumar Gupta | Cloud & DevOps Engineer"}],["$","meta","3",{"name":"description","content":"Cloud & DevOps Engineer with 2+ years of experience specializing in AWS LAMP stack migration, Kubernetes, and Infrastructure as Code"}],["$","meta","4",{"name":"keywords","content":"Cloud Engineer,DevOps,AWS,LAMP Stack,Kubernetes,Infrastructure as Code,Portfolio"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","meta","6",{"property":"og:title","content":"Amar Kumar Gupta | Cloud & DevOps Engineer"}],["$","meta","7",{"property":"og:description","content":"Cloud & DevOps Engineer with 2+ years of experience specializing in AWS LAMP stack migration, Kubernetes, and Infrastructure as Code"}],["$","meta","8",{"property":"og:url","content":"https://your-domain.com"}],["$","meta","9",{"property":"og:site_name","content":"Amar Kumar Gupta - Portfolio"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"property":"og:image","content":"https://your-domain.com/og-image.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Amar Kumar Gupta - Cloud & DevOps Engineer"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Amar Kumar Gupta - Cloud & DevOps Engineer"}],["$","meta","18",{"name":"twitter:description","content":"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code"}],["$","meta","19",{"name":"twitter:image","content":"https://your-domain.com/og-image.jpg"}],["$","meta","20",{"name":"next-size-adjust"}]]
 1:null
 b:"$Sreact.suspense"
-c:I[5012,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-fbda34acca80dda8.js"],"LoadingSpinner"]
-d:I[7213,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-fbda34acca80dda8.js"],"default"]
-e:T865,
-# Complete Blog Post Example
-
-This is a comprehensive example showing all possible components and features available in blog posts.
-
-## Text Formatting
-
-You can use **bold**, *italic*, or ***both***. You can also use ~~strikethrough~~ text.
-
-## Lists
-
-### Unordered List
-- Item 1
-- Item 2
-  - Nested item 1
-  - Nested item 2
-- Item 3
-
-### Ordered List
-1. First item
-2. Second item
-   1. Nested item
-   2. Another nested item
-3. Third item
-
-## Code Blocks
-
-Inline code: `const example = "hello world";`
-
-```typescript
-// types.ts
-interface User {
-  id: string;
-  name: string;
-  email: string;
-}
-
-// api.ts
-function getUser(id: string): Promise<User> {
-  return fetch(`/api/users/${id}`)
-    .then(res => res.json());
-}
-```
-
-## Blockquotes
-
-> This is a blockquote
-> It can span multiple lines
->> And can be nested
-
-## Tables
-
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
-
-## Images
-
-![Example Image](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
-
-## Links
-
-[External Link](https://example.com)
-[Internal Link](/blog/another-post)
-
-## Diagrams (using Mermaid)
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-## Math Equations (using KaTeX)
-
-Inline math: $E = mc^2$
-
-Block math:
-$$
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
-$$
-
-## Custom Components
-
-:::info
-This is an info box
-:::
-
-:::warning
-This is a warning box
-:::
-
-:::success
-This is a success box
-:::
-
-## Keyboard Shortcuts
-
-Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy
-
-## Footnotes
-
-Here's a sentence with a footnote[^1].
-
-[^1]: This is the footnote content.
-
-## Abbreviations
-
-The HTML specification is maintained by the W3C.
-
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
-
-## Task Lists
-
-- [x] Write the blog post
-- [ ] Add more examples
-- [x] Review content
-- [ ] Publish
-
-## Definition Lists
-
-Term 1
-: Definition 1
-
-Term 2
-: Definition 2a
-: Definition 2b
-
-## Horizontal Rule
-
----
-
-## Conclusion
-
-This example demonstrates all the components and features available in our blog posts. Use this as a reference when creating new content.f:T999,
+c:I[5012,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-e549ea7bb68c02e3.js"],"LoadingSpinner"]
+d:I[7213,["922","static/chunks/c15bf2b0-8cf2939e22aa2fb1.js","437","static/chunks/437-cda2371841ad92c7.js","878","static/chunks/878-f15e3f08980b5527.js","3","static/chunks/3-7b00e21b66826e64.js","347","static/chunks/347-1be5d1af76829c14.js","287","static/chunks/287-3a3905a5d5dab507.js","931","static/chunks/app/page-e549ea7bb68c02e3.js"],"default"]
+e:T999,
 Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.
 
 ## What is GitOps?
@@ -247,7 +109,7 @@ GitOps is more than just a trend—it's a fundamental shift in how we manage inf
 - Better security
 - Enhanced collaboration
 
-Start implementing GitOps in your organization today to stay ahead of the curve.10:T11c6,
+Start implementing GitOps in your organization today to stay ahead of the curve.f:T11c6,
 Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.
 
 ## Understanding Kubernetes Scaling
@@ -434,7 +296,7 @@ Effective scaling in Kubernetes requires a combination of:
 - Regular optimization and tuning
 - Understanding of application behavior
 
-By implementing these strategies, you can ensure your applications handle high traffic efficiently while maintaining optimal resource utilization and cost effectiveness.11:T5ed,# Kubernetes Cluster Automation
+By implementing these strategies, you can ensure your applications handle high traffic efficiently while maintaining optimal resource utilization and cost effectiveness.10:T5ed,# Kubernetes Cluster Automation
 
 ## Overview
 End-to-end Kubernetes cluster deployment automation with Terraform, Ansible, and GitOps principles for configuration management.
@@ -497,7 +359,7 @@ spec:
 
 ## Links
 - [GitHub Repository](#)
-- [Documentation](#)12:T51b,# Multi-Cloud Infrastructure
+- [Documentation](#)11:T51b,# Multi-Cloud Infrastructure
 
 ## Overview
 A resilient multi-cloud infrastructure implementation spanning AWS and GCP with automatic failover capabilities and distributed systems architecture.
@@ -560,172 +422,7 @@ resource "consul_service" "web" {
 
 ## Links
 - [Architecture Diagram](#)
-- [Technical Documentation](#)13:Td6b,
-# Complete Project Documentation Example
-
-This comprehensive example demonstrates all possible components and features available in project documentation.
-
-## Project Overview
-
-This project showcases a complete infrastructure automation solution using modern DevOps practices and tools.
-
-### Key Features
-
-- Automated infrastructure provisioning
-- Zero-downtime deployments
-- Security compliance automation
-- Real-time monitoring and alerting
-
-## Technical Architecture
-
-### Infrastructure Diagram
-
-```mermaid
-graph TD;
-    A[Client] -->|Request| B[Load Balancer];
-    B --> C[Web Server 1];
-    B --> D[Web Server 2];
-    C --> E[Database];
-    D --> E;
-```
-
-### Component Details
-
-#### Frontend Layer
-```typescript
-interface LoadBalancerConfig {
-  algorithm: 'round-robin' | 'least-connections';
-  healthCheck: {
-    path: string;
-    interval: number;
-    timeout: number;
-  };
-  servers: Server[];
-}
-
-class LoadBalancer implements LoadBalancerConfig {
-  constructor(config: LoadBalancerConfig) {
-    // Implementation
-  }
-}
-```
-
-#### Backend Services
-```yaml
-apiVersion: v1
-kind: Service
-metadata:
-  name: backend-service
-spec:
-  selector:
-    app: backend
-  ports:
-    - protocol: TCP
-      port: 80
-      targetPort: 8080
-```
-
-## Implementation Steps
-
-1. Infrastructure Setup
-   ```bash
-   terraform init
-   terraform plan
-   terraform apply
-   ```
-
-2. Application Deployment
-   ```typescript
-   const deployConfig = {
-     replicas: 3,
-     resources: {
-       limits: {
-         cpu: '1',
-         memory: '1Gi'
-       }
-     }
-   };
-   ```
-
-## Performance Metrics
-
-| Metric | Before | After | Improvement |
-|--------|---------|--------|-------------|
-| Response Time | 250ms | 100ms | 60% |
-| CPU Usage | 80% | 45% | 44% |
-| Memory Usage | 4GB | 2.5GB | 38% |
-
-## Security Considerations
-
-> **Important:** All deployments must follow the security guidelines outlined below.
-
-### Security Checklist
-
-- [x] Network segmentation
-- [x] Access control
-- [x] Encryption at rest
-- [x] TLS for all communications
-
-## Monitoring Setup
-
-![Monitoring Dashboard](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg)
-
-Our monitoring stack includes:
-
-1. Prometheus for metrics collection
-2. Grafana for visualization
-3. AlertManager for alerting
-4. ELK Stack for log management
-
-## Code Examples
-
-### Python Monitoring Script
-```python
-def check_health(service_url: str) -> bool:
-    try:
-        response = requests.get(service_url)
-        return response.status_code == 200
-    except Exception as e:
-        logger.error(f"Health check failed: {e}")
-        return False
-```
-
-### Kubernetes Configuration
-```yaml
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: monitoring
-spec:
-  replicas: 3
-  selector:
-    matchLabels:
-      app: monitoring
-  template:
-    spec:
-      containers:
-      - name: prometheus
-        image: prom/prometheus:v2.30.0
-```
-
-## Results and Impact
-
-- 99.99% uptime achieved
-- 45% reduction in operational costs
-- 60% faster deployment cycles
-- Zero security incidents
-
-## Future Improvements
-
-1. Implement chaos engineering practices
-2. Enhance automated testing coverage
-3. Add machine learning for anomaly detection
-
-## References
-
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [Terraform Best Practices](https://www.terraform.io/docs/cloud/guides/recommended-practices/index.html)
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)14:T53e,
+- [Technical Documentation](#)12:T53e,
 # Database Migration Tool
 
 A robust tool built in Go for seamless migration between database platforms with zero downtime and automatic schema conversion.
@@ -788,4 +485,4 @@ func Migrate(config MigrationConfig) error {
 
 - [ ] Add support for more databases
 - [ ] Implement ML-based schema mapping
-- [ ] Add distributed migration support2:[["$","$L3",null,{"id":"structured-data-person","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Amar Kumar Gupta\",\"jobTitle\":\"Cloud & DevOps Engineer\",\"image\":\"https://your-domain.com/images/profile.jpg\",\"sameAs\":[\"https://github.com/devops-expert\",\"https://linkedin.com/in/devops-expert\",\"https://twitter.com/devops_expert\"],\"description\":\"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code\",\"url\":\"https://your-domain.com\"}"}}],["$","$b",null,{"fallback":["$","div",null,{"className":"flex items-center justify-center min-h-screen bg-[rgb(var(--terminal-black))]","children":["$","$Lc",null,{"size":"lg","text":"Initializing terminal..."}]}],"children":["$","$Ld",null,{"blogPosts":[{"slug":"example-blog-post","title":"Complete Blog Post Example with All Components","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["tutorial","markdown","components"],"readingTime":"2 min","excerpt":"# Complete Blog Post Example\n\nThis is a comprehensive example showing all possible components and features available in blog posts.\n\n## Text Formatting\n\nYou can use **bold**, *italic*, or ***both***....","content":"$e","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"gitops-infrastructure","title":"GitOps: The Future of Infrastructure Management","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["GitOPS","Git","Infrastructure"],"readingTime":"2 min","excerpt":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o...","content":"$f","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"kubernetes-scaling-strategies","title":"Advanced Kubernetes Scaling Strategies for High-Traffic Applications","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["Kubernetes","scaling","components"],"readingTime":"3 min","excerpt":"Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.\n\n## Understanding Kubernetes Sc...","content":"$10","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0}],"projects":[{"slug":"kubernetes-cluster-automation","title":"","author":"DevOps Expert","date":"2025-05-15T08:46:48.915Z","tags":[],"image":"$undefined","excerpt":"# Kubernetes Cluster Automation\n\n## Overview\nEnd-to-end Kubernetes cluster deployment automation with Terraform, Ansible, and GitOps principles for configuration management.\n\n## Technologies\n- Kuberne...","content":"$11","github":"$undefined","link":"$undefined"},{"slug":"multi-cloud-infrastructure","title":"","author":"DevOps Expert","date":"2025-05-15T08:46:48.915Z","tags":[],"image":"$undefined","excerpt":"# Multi-Cloud Infrastructure\n\n## Overview\nA resilient multi-cloud infrastructure implementation spanning AWS and GCP with automatic failover capabilities and distributed systems architecture.\n\n## Tech...","content":"$12","github":"$undefined","link":"$undefined"},{"slug":"sample-project","title":"Complete Project Documentation Example","author":"DevOps Expert","date":"2025-02-15","tags":["infrastructure","kubernetes","automation","security"],"image":"https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg","excerpt":"A comprehensive example showing all possible markdown components and features available in project documentation.","content":"$13","github":"$undefined","link":"$undefined"},{"slug":"database-migration-tool","title":"Database Migration Tool","author":"DevOps Expert","date":"2025-01-15","tags":["database","migration","automation","golang"],"image":"https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg","excerpt":"A high-performance tool for seamless database migrations with zero downtime and automatic schema conversion.","content":"$14","github":"https://github.com/example/db-migration-tool","link":"$undefined"}]}]}]]
+- [ ] Add distributed migration support2:[["$","$L3",null,{"id":"structured-data-person","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Amar Kumar Gupta\",\"jobTitle\":\"Cloud & DevOps Engineer\",\"image\":\"https://your-domain.com/images/profile.jpg\",\"sameAs\":[\"https://github.com/amarkumargupta\",\"https://linkedin.com/in/amar-kr-gupta\",\"https://twitter.com/amar_krgupta\"],\"description\":\"Cloud & DevOps Engineer specializing in AWS LAMP stack development, Kubernetes, and Infrastructure as Code\",\"url\":\"https://amarkumargupta.github.io\"}"}}],["$","$b",null,{"fallback":["$","div",null,{"className":"flex items-center justify-center min-h-screen bg-[rgb(var(--terminal-black))]","children":["$","$Lc",null,{"size":"lg","text":"Initializing terminal..."}]}],"children":["$","$Ld",null,{"blogPosts":[{"slug":"gitops-infrastructure","title":"GitOps: The Future of Infrastructure Management","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["GitOPS","Git","Infrastructure"],"readingTime":"2 min","excerpt":"Infrastructure management has evolved significantly over the years, and GitOps represents the next major paradigm shift in how we handle infrastructure as code.\n\n## What is GitOps?\n\nGitOps is a way o...","content":"$e","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0},{"slug":"kubernetes-scaling-strategies","title":"Advanced Kubernetes Scaling Strategies for High-Traffic Applications","date":"2025-06-01","author":"Amar Kr. Gupta","tags":["Kubernetes","scaling","components"],"readingTime":"3 min","excerpt":"Learn how to implement effective scaling strategies in Kubernetes for handling millions of requests while maintaining optimal resource utilization and cost efficiency.\n\n## Understanding Kubernetes Sc...","content":"$f","image":"https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg","views":0}],"projects":[{"slug":"kubernetes-cluster-automation","title":"","author":"DevOps Expert","date":"2025-05-16T07:53:55.494Z","tags":[],"image":"$undefined","excerpt":"# Kubernetes Cluster Automation\n\n## Overview\nEnd-to-end Kubernetes cluster deployment automation with Terraform, Ansible, and GitOps principles for configuration management.\n\n## Technologies\n- Kuberne...","content":"$10","github":"$undefined","link":"$undefined"},{"slug":"multi-cloud-infrastructure","title":"","author":"DevOps Expert","date":"2025-05-16T07:53:55.494Z","tags":[],"image":"$undefined","excerpt":"# Multi-Cloud Infrastructure\n\n## Overview\nA resilient multi-cloud infrastructure implementation spanning AWS and GCP with automatic failover capabilities and distributed systems architecture.\n\n## Tech...","content":"$11","github":"$undefined","link":"$undefined"},{"slug":"database-migration-tool","title":"Database Migration Tool","author":"Amar Kr. Gupta","date":"2025-01-15","tags":["database","migration","automation","golang"],"image":"https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg","excerpt":"A high-performance tool for seamless database migrations with zero downtime and automatic schema conversion.","content":"$12","github":"#","link":"$undefined"}]}]}]]
